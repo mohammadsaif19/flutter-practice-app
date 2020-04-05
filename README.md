@@ -1,4 +1,4 @@
-# practice_for_book
+## Flutter practice app with book app ui
 
 A new Flutter project.
 
